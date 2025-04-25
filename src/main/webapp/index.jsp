@@ -10,8 +10,8 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to Devops Engineering</h1>
-      <p>learning through flm</p>
+      <h1>Welcome to Pubg Mobile Esports</h1>
+      <p>web[age built by prasad</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
   </header>
